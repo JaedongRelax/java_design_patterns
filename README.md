@@ -1,10 +1,9 @@
+# Java 实现的面向对象软件设计模式
 
-# Java 实现的面向对象设计模式
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JamesZBL/java_design_patterns/blob/master/LICENSE)
 [![Build status](https://travis-ci.org/JamesZBL/java_design_patterns.svg?branch=master)](https://travis-ci.org/JamesZBL/java_design_patterns)
-
-## 介绍
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/java_design_patterns/)
 
 设计模式（Design pattern）是用于面向对象程序设计的、有效提高代码重用效率、有着明确使用场景分类的程序设计规范的总结。使用设计模式的
 目的：为了代码可重用性、让代码更容易被他人理解、保证代码可靠性。 设计模式使代码编写真正工程化；设计模式是软件工程的基石脉络，如同大厦
@@ -21,20 +20,55 @@
 
 ## 目录
 
-### 构建型模式
+### 构建模式
 
-[Builder (创建者)](https://github.com/JamesZBL/java_design_patterns/tree/master/builder) 
+* Builder （创建者）
 
-[Abstract Factory (抽象工厂)](https://github.com/JamesZBL/java_design_patterns/tree/master/abstract-factory)
+* Abstract Factory （抽象工厂）
 
-[Factory Method (工厂方法)](https://github.com/JamesZBL/java_design_patterns/tree/master/factory-method)
+* Factory Method （工厂方法）
 
-[Prototype (原型模式)](https://github.com/JamesZBL/java_design_patterns/tree/master/prototype)
+* Prototype （原型模式）
 
-[Singleton (单例模式)](https://github.com/JamesZBL/java_design_patterns/tree/master/singleton)
+* Singleton （单例模式）
 
-### 结构型模式
 
-[Adapter (适配器)](https://github.com/JamesZBL/java_design_patterns/tree/master/adapter)
+### 结构模式
+
+* Adapter （适配器）
+
+* Bridge （桥接模式）
+
+* Composite （组合模式）
+
+* Decorator （装饰模式）
+
+* Facade （外观模式）
+
+* Flyweight （享元模式）
+
+* Proxy （代理模式）
 
 ### 行为模式
+
+* Chain of Responsibility （职责链模式）
+
+* Command （命令模式）
+
+* Interpreter （解释器模式）
+
+* Iterator（迭代器模式）
+
+* Mediator（中介者模式）
+
+* Memento（备忘录模式）
+
+* Observer（观察者模式）
+
+* State（状态模式）
+
+* Strategy （策略模式）
+
+* Template Method （模板方法）
+
+* Visitor（访问者模式）
